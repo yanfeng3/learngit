@@ -1,12 +1,11 @@
-##What's this PR is all about?
+#What this PR is all about?
 
 
-###What should you focus on while reviewing this PR？
+###What to focus on while reviewing this PR？
 
 
 ###Additional information for the reviewer
-- a
-- b
+
 
 ###JIRA
-JIRA issue: 
+JIRA issue: [ALEX-####](https://jira.autodesk.com/browse/ALEX-####)
